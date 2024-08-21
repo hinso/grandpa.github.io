@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "賽程",
+  "name": "英超賽程",
   "icons": [
     {
       "src": "favicon.ico",
